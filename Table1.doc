@@ -1,0 +1,152 @@
+{\rtf1\ansi\deff0 {\fonttbl {\f0 Times New Roman;}}
+{\pard Table 1 \par}
+{\pard  \par}
+{\pard\i Fixed-Effects ANOVA results using mark as the criterion
+\par}
+{\pard  \par}
+{
+\trowd \trgaph100
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx5947 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx6811 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx8179 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{Predictor}\cell
+\pard\sa0\sb0\intbl\qc{{Sum\par}{of\par}Squares}\cell
+\pard\sa0\sb0\intbl\qc{{\i df}}\cell
+\pard\sa0\sb0\intbl\qc{{Mean\par}Square}\cell
+\pard\sa0\sb0\intbl\qc{{\i F}}\cell
+\pard\sa0\sb0\intbl\qc{{\i p}}\cell
+\pard\sa0\sb0\intbl\qc{{\sub partial \nosupersub \u0951\ \super 2\nosupersub}}\cell
+\pard\sa0\sb0\intbl\qc{{\sub partial \nosupersub \u0951\ \super 2 \nosupersub \par 90% CI\par[LL, UL]}}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx5947 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx6811 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx8179 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{(Intercept)}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{132933.63}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{132933.63}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx518{2215.56}\cell
+\pard\sa0\sb0\intbl\qc{.000}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx5947 
+\clvertalc\cellx6811 
+\clvertalc\cellx8179 
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{anxiety}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{3477.63}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{3477.63}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx518{57.96}\cell
+\pard\sa0\sb0\intbl\qc{.000}\cell
+\pard\sa0\sb0\intbl\qc{.71}\cell
+\pard\sa0\sb0\intbl\qc{[.50, .79]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx5947 
+\clvertalc\cellx6811 
+\clvertalc\cellx8179 
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{preparation}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{434.47}\cell
+\pard\sa0\sb0\intbl\qc{2}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{217.24}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx518{3.62}\cell
+\pard\sa0\sb0\intbl\qc{.042}\cell
+\pard\sa0\sb0\intbl\qc{.23}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .40]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx5947 
+\clvertalc\cellx6811 
+\clvertalc\cellx8179 
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{anxiety x preparation}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{539.27}\cell
+\pard\sa0\sb0\intbl\qc{2}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{269.63}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx518{4.49}\cell
+\pard\sa0\sb0\intbl\qc{.022}\cell
+\pard\sa0\sb0\intbl\qc{.27}\cell
+\pard\sa0\sb0\intbl\qc{[.02, .44]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx5947 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx6811 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx8179 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx9547 
+\pard\sa0\sb0\intbl\qr{Error}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{1440.00}\cell
+\pard\sa0\sb0\intbl\qc{24}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx777{60.00}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx518{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\row
+}
+{\pard \par}{\pard{\i Note.} LL and UL represent the lower-limit and upper-limit of the partial \u0951\ \super 2\nosupersub  confidence interval, respectively.\par}
+}
